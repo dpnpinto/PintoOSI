@@ -22,11 +22,11 @@ Como referido existem sete (7) camadas no modelo OSI, cada uma das quais tem uma
 
 ## Camada 1 – Camada Física
 
-A camada mais ao nivel dos componentes de ligação fisico do modelo de referência OSI é a Camada **Física**. É responsável pela conexão física real entre os dispositivos. A camada física contém informação na forma de bits. A Camada Física é responsável por transmitir bits individuais de um nó da ligação para o próximo. Ao receber dados, esta camada recebe o sinal e converte-o em binário 0s e 1s e envia-os para a Camada de Ligação de Dados, que irá recompor a trama. Dispositivos comuns da camada física são Hub's, Repeater's, Modem's e Cabos.
+A camada mais ao nivel dos componentes de ligação fisica do modelo de referência OSI é a Camada **Física**. É responsável pela conexão física, real, entre os dispositivos. A camada física contém informação na forma de bits. A Camada Física é responsável por transmitir bit'ss individuais de um nó da ligação para o próximo. Ao receber dados, esta camada recebe o sinal e converte-o em binário, 0s e 1s, e envia-os para a Camada de Ligação de Dados, que irá recompor a trama. Dispositivos comuns da camada física são Hub's, Repetidores, Modem's e Cabos.
 
 ### Funções da Camada Física
 
-- Sincronização de Bits: A camada física fornece a sincronização dos bits. Recorrendo a um relógio controla tanto o emissor como o receptor, proporcionando assim sincronização ao nível do bit.
+- Sincronização de Bits: A camada física fornece a sincronização dos bits. Recorrendo a um relógio que controla tanto o emissor como o receptor, proporcionando assim sincronização ao nível do bit.
 - Controlo da Taxa de Bits: A Camada Física também define a taxa de transmissão, ou seja, o número de bits enviados por segundo.
-- Topologias Físicas: A camada física especifica como os diferentes dispositivos/nós estão organizados numa rede, ou seja, por topologia de barramento, topologia em estrela ou topologia em ***.
+- Topologias Físicas: A camada física especifica como os diferentes dispositivos/nós estão organizados numa rede, ou seja, por topologia de barramento, topologia em estrela, em canal.
 - Modo de Transmissão: A camada física também define como os dados fluem entre os dois dispositivos conectados. Os vários modos de transmissão possíveis são Simplex, Half-duplex e Full-duplex.
