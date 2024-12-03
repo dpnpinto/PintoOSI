@@ -8,3 +8,14 @@ O Modelo OSI (Open Systems Interconnection) é um modelo desenvolvido pela ISO (
 Esta abordagem em camadas facilita a interoperabilidade entre diferentes dispositivos e tecnologias. O Modelo OSI fornece uma estrutura clara para a transmissão de dados e gestão de problemas de rede. O Modelo OSI é amplamente utilizado como referência para compreender o funcionamento dos sistemas de rede.
 
 Vamos discutir o Modelo OSI e vamos abordar cada uma das camadas do Modelo OSI em detalhe. Vamos também discutir o fluxo de dados no Modelo OSI e como o Modelo OSI é diferente do Modelo TCP/IP.
+
+## Camadas (layers) do modelo OSI
+Como referido existem sete (7) camdas no modelo OSI, cada uma das quais tem uma tarefa especifica de tratamento da informação. São as indicadas infra:
+
+- Fisica (Layer 1)
+- Ligação (Layer 2)
+- Rede (Layer 3)
+- Transporte (Layer 4)
+- Sessão (Layer 5)
+- Apresentação (Layer 6)
+- Aplicação (Layer 7)
