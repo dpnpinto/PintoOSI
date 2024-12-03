@@ -10,7 +10,7 @@ Esta abordagem em camadas facilita a interoperabilidade entre diferentes disposi
 Vamos discutir o Modelo OSI e vamos abordar cada uma das camadas do Modelo OSI em detalhe. Vamos também discutir o fluxo de dados no Modelo OSI e como o Modelo OSI é diferente do Modelo TCP/IP.
 
 ## Camadas (layers) do modelo OSI
-Como referido existem sete (7) camdas no modelo OSI, cada uma das quais tem uma tarefa especifica de tratamento da informação. São as indicadas infra:
+Como referido existem sete (7) camadas no modelo OSI, cada uma das quais tem uma tarefa especifica de tratamento da informação. São as indicadas infra:
 
 - Fisica (Layer 1)
 - Ligação (Layer 2)
